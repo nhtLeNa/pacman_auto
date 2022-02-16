@@ -1,5 +1,5 @@
-pacman_auto - student project - HCMUS
-Game graphic: pygame + sys + tkinter
+#pacman_auto - student project - HCMUS
+##Game graphic: pygame + sys + tkinter
 Algorithm:
 lv 1 & 2 - A*(manhanttan distance)
 lv 3 - BFS
